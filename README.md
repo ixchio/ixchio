@@ -19,7 +19,7 @@
   <a href="mailto:amankumarpandeyin@gmail.com">
     <img src="https://img.shields.io/badge/Email-amankumarpandeyin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://codepen.io/losercodes">
+  <a href="https://codepen.io/losercode">
     <img src="https://img.shields.io/badge/CodePen-losercodes-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
   </a>
 </div>
