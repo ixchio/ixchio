@@ -1,6 +1,6 @@
 # Aman Kumar Pandey
 
-Final year CS student. AI Engineer at Scale AI.
+Final year CS student. AI Engineer at Qubicsquare Technologies.
 
 ## Open Source
 
