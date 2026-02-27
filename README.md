@@ -18,10 +18,6 @@
 | [#1538](https://github.com/OpenHands/software-agent-sdk/pull/1538) | Improved tool matching on resume — agents now correctly re-bind tools after session restore | Fixed broken agent state on resume |
 | [#1539](https://github.com/OpenHands/software-agent-sdk/pull/1539) | Added pause/resume to workspace classes | Full lifecycle control for long-running agent tasks |
 | [#1564](https://github.com/OpenHands/software-agent-sdk/pull/1564) | DeepSeek v3.2 model support | Expanded model compatibility for the SDK |
-
-### LangChain (127k ⭐)
-- [PR #31327](https://github.com/langchain-ai/langchain/pull/31327) — Multi-agent orchestration improvements
-
 ---
 
 ## What I've Shipped
