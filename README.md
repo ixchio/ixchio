@@ -13,7 +13,6 @@ Published 2 PyPI packages. Founding Member, OpenHands Champions Program (< 10 pe
 |------|-------|------------|
 | [OpenHands](https://github.com/OpenHands/software-agent-sdk) | 65k | 9 merged PRs — CVE patch, async hooks, thread-safe init, agent lifecycle |
 | [OpenHands-CLI](https://github.com/OpenHands/OpenHands-CLI) | — | TUI tab navigation, snapshot tests |
-| [LangChain](https://github.com/langchain-ai/langchain) | 127k | HealthMiddleware for graceful degradation |
 | [Astro](https://github.com/withastro/astro) | 47k | CSS double-bundling fix → shipped in v5.16.11 |
 | [multigres](https://github.com/multigres/multigres) | 1.9k | Safe port range fix for local Postgres clusters |
 
