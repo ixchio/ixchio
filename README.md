@@ -2,7 +2,7 @@
 
 **AI Engineer** — I build autonomous systems, ship to production, and contribute upstream.
 
-Founding Member, [OpenHands Champions Program](https://github.com/OpenHands) (< 10 people globally) · 2 packages on PyPI · 17+ merged PRs across 8 open-source projects
+Founding Member yo, [OpenHands Champions Program](https://github.com/OpenHands) (< 10 people globally) · 2 packages on PyPI · 17+ merged PRs across 8 open-source projects
 
 <br>
 
