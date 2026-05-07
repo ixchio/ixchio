@@ -105,7 +105,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ixchio&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ixchio&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=ixchio&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170" />
 </p>
 
 <p align="center">
@@ -119,7 +119,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/ixchio/ixchio/blob/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ixchio/ixchio/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
 </p>
 
 <br>
