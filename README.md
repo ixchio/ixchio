@@ -1,4 +1,4 @@
-# cid
+# Aman 
 
 I build tools I want to use.
 
@@ -14,4 +14,4 @@ Right now I'm building [**n0x**](https://github.com/ixchio/n0x) — the full AI 
 
 ---
 
-*don't chase pssy. chase shipping.*
+*infrastructure over hype...always shipping*
