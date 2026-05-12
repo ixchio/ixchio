@@ -59,15 +59,6 @@ Right now I'm building [**n0x**](https://github.com/ixchio/n0x) — the full AI 
 | [#31](https://github.com/lithos-ai/motus/pull/31) | ✅ fix: pass `base64_image` downstream in LLM clients |
 | [#36](https://github.com/lithos-ai/motus/pull/36) | 🟡 fix: FunctionTool JSON crash, Anthropic tool-result image loss, Gemini empty-response crash |
 
-**Other notable PRs:**
-[google-gemini/gemini-cli#25643](https://github.com/google-gemini/gemini-cli/pull/25643) ·
-[lmnr-ai/lmnr#1590](https://github.com/lmnr-ai/lmnr/pull/1590) ·
-[multigres/multigres#353](https://github.com/multigres/multigres/pull/353) ✅ ·
-[langchain-ai/langgraph#7588](https://github.com/langchain-ai/langgraph/pull/7588) ·
-[mem0ai/memory-benchmarks#5](https://github.com/mem0ai/memory-benchmarks/pull/5) ·
-[oven-sh/bun#25383](https://github.com/oven-sh/bun/pull/25383) ·
-[SigNoz/signoz#9892](https://github.com/SigNoz/signoz/pull/9892)
-
 > ✅ = merged · 🟡 = open
 
 ---
