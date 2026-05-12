@@ -1,5 +1,7 @@
 # Aman
 
+OpenHands Contributor · 16 merged PRs across 7 organizations
+
 I build tools I want to use.
 
 Right now I'm building [**n0x**](https://github.com/ixchio/n0x) — the full AI stack running in one browser tab. LLM inference, agents, RAG, code execution, image gen. No backend, no API keys, no data leaving your machine. WebGPU + WASM, shipping today.
@@ -14,9 +16,9 @@ Right now I'm building [**n0x**](https://github.com/ixchio/n0x) — the full AI 
 
 ---
 
-### Open-Source Contributions
+### Merged Open-Source Contributions
 
-**[OpenHands/software-agent-sdk](https://github.com/OpenHands/software-agent-sdk)** — 9 merged PRs
+**[OpenHands/software-agent-sdk](https://github.com/OpenHands/software-agent-sdk)** — 9 merged
 | PR | What |
 |---|---|
 | [#2688](https://github.com/OpenHands/software-agent-sdk/pull/2688) | feat: make `health_check_timeout` configurable on DockerWorkspace & ApptainerWorkspace |
@@ -29,12 +31,10 @@ Right now I'm building [**n0x**](https://github.com/ixchio/n0x) — the full AI 
 | [#1538](https://github.com/OpenHands/software-agent-sdk/pull/1538) | feat: relax tool matching on resume |
 | [#1433](https://github.com/OpenHands/software-agent-sdk/pull/1433) | feat: add early stopping/pruner for behavior tests cost optimization |
 
-**[OpenHands/OpenHands-CLI](https://github.com/OpenHands/OpenHands-CLI)** — 1 merged, 2 open
+**[OpenHands/OpenHands-CLI](https://github.com/OpenHands/OpenHands-CLI)** — 1 merged
 | PR | What |
 |---|---|
-| [#581](https://github.com/OpenHands/OpenHands-CLI/pull/581) | ✅ tui: add tab navigation hint to footers |
-| [#615](https://github.com/OpenHands/OpenHands-CLI/pull/615) | 🟡 feat: add Planning Mode support with `/plan` and `/code` commands |
-| [#612](https://github.com/OpenHands/OpenHands-CLI/pull/612) | 🟡 fix: support AWS IAM credentials for Bedrock models without `LLM_API_KEY` |
+| [#581](https://github.com/OpenHands/OpenHands-CLI/pull/581) | tui: add tab navigation hint to footers |
 
 **[withastro/astro](https://github.com/withastro/astro)** — 2 merged
 | PR | What |
@@ -42,24 +42,25 @@ Right now I'm building [**n0x**](https://github.com/ixchio/n0x) — the full AI 
 | [#15017](https://github.com/withastro/astro/pull/15017) | fix(css): prevent CSS double-bundling |
 | [#14973](https://github.com/withastro/astro/pull/14973) | fix: prevent O(n²) memory allocation in content lookup map generation |
 
-**[superglue-ai/superglue](https://github.com/superglue-ai/superglue)** — 1 merged, 1 open
+**[superglue-ai/superglue](https://github.com/superglue-ai/superglue)** — 1 merged
 | PR | What |
 |---|---|
-| [#679](https://github.com/superglue-ai/superglue/pull/679) | ✅ fix(security): prevent SSRF via incomplete URL validation and unvalidated webhook URLs |
-| [#681](https://github.com/superglue-ai/superglue/pull/681) | 🟡 fix: prevent zombie Deno processes and add defensive `callAxios` return |
+| [#679](https://github.com/superglue-ai/superglue/pull/679) | fix(security): prevent SSRF via incomplete URL validation and unvalidated webhook URLs |
 
 **[mem0ai/mem0](https://github.com/mem0ai/mem0)** — 1 merged
 | PR | What |
 |---|---|
 | [#4886](https://github.com/mem0ai/mem0/pull/4886) | fix: add missing `text_lemmatized` in `AsyncMemory._create_memory` |
 
-**[lithos-ai/motus](https://github.com/lithos-ai/motus)** — 1 merged, 1 open
+**[lithos-ai/motus](https://github.com/lithos-ai/motus)** — 1 merged
 | PR | What |
 |---|---|
-| [#31](https://github.com/lithos-ai/motus/pull/31) | ✅ fix: pass `base64_image` downstream in LLM clients |
-| [#36](https://github.com/lithos-ai/motus/pull/36) | 🟡 fix: FunctionTool JSON crash, Anthropic tool-result image loss, Gemini empty-response crash |
+| [#31](https://github.com/lithos-ai/motus/pull/31) | fix: pass `base64_image` downstream in LLM clients |
 
-> ✅ = merged · 🟡 = open
+**[multigres/multigres](https://github.com/multigres/multigres)** — 1 merged
+| PR | What |
+|---|---|
+| [#353](https://github.com/multigres/multigres/pull/353) | fix: use safe port range for local cluster postgres instances |
 
 ---
 
