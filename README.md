@@ -1,6 +1,6 @@
 # Aman
 
-OpenHands Contributor · 16 merged PRs across 7 organizations
+[OpenHands Champion](https://github.com/All-Hands-AI/OpenHands) (founding cohort) · 16 merged PRs across 7 organizations
 
 I build tools I want to use.
 
@@ -8,7 +8,7 @@ Right now I'm building [**n0x**](https://github.com/ixchio/n0x) — the full AI 
 
 **Other things I've shipped:**
 
-[**agent-vcr**](https://github.com/ixchio/agent-vcr) — time-travel debugging for AI agents. Record, replay, edit, resume from any point.
+[**agent-vcr**](https://github.com/ixchio/agent-vcr) — time-travel debugging for AI agents. Record, replay, edit, resume from any point. [`pip install ai-agent-vcr`](https://pypi.org/project/ai-agent-vcr/)
 
 [**tas**](https://github.com/ixchio/tas) — Telegram as Storage. Free encrypted cloud storage using Telegram's infra. Mount it like a drive.
 
