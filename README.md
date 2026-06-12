@@ -1,8 +1,25 @@
-# aman · @ixchio
+<div align="center">
 
-I build tools I want to use. [OpenHands Champion](https://github.com/All-Hands-AI/OpenHands) · founding cohort · 18 merged PRs / 8 orgs.
+<img src="https://count.getloli.com/get/@ixchio?name=ixchio&theme=moebooru&padding=7&offset=0&align=top&scale=1.2&pixelated=1&darkmode=auto" alt="visitor count" />
+
+<br/>
+
+```
+infrastructure over hype · always shipping
+```
+
+</div>
 
 ---
+
+<img align="right" src="https://media1.tenor.com/m/zhpGBzZpGkIAAAAd/anime-girl-typing.gif" width="220" alt="anime" />
+
+# aman · @ixchio
+
+I build tools I want to use.  
+[OpenHands Champion](https://github.com/All-Hands-AI/OpenHands) · founding cohort · 18 merged PRs / 8 orgs.
+
+<br/>
 
 ## Shipping
 
@@ -33,4 +50,8 @@ I build tools I want to use. [OpenHands Champion](https://github.com/All-Hands-A
 
 ---
 
-<sub>infrastructure over hype · always shipping</sub>
+<div align="center">
+
+![](https://count.getloli.com/get/@ixchio?name=ixchio&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
+</div>
