@@ -29,6 +29,8 @@ I build tools I want to use. [OpenHands Champion](https://github.com/All-Hands-A
 | [multigres/multigres](https://github.com/multigres/multigres) | 1 | safe port range for local clusters |
 | [OpenHands/OpenHands-CLI](https://github.com/OpenHands/OpenHands-CLI) | 1 | TUI tab navigation hint |
 
+[![@ixchio Astro contributions](https://astro.badg.es/v2/contributor/ixchio.svg)](https://astro.badg.es/contributor/ixchio/)
+
 ---
 
 <sub>infrastructure over hype · always shipping</sub>
