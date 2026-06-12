@@ -1,26 +1,24 @@
-```
-aman · @ixchio
-```
+# aman · @ixchio
 
 I build tools I want to use. [OpenHands Champion](https://github.com/All-Hands-AI/OpenHands) · founding cohort · 18 merged PRs / 8 orgs.
 
 ---
 
-#### shipping
+## Shipping
 
-[**n0x**](https://github.com/ixchio/n0x) — full AI stack in one browser tab. inference, agents, RAG, codegen, imagegen. no backend, no keys, no data leaves your machine. WebGPU + WASM.
+[**n0x**](https://github.com/ixchio/n0x) — full AI stack in one browser tab. Inference, agents, RAG, codegen, imagegen. No backend, no keys, no data leaves your machine. WebGPU + WASM.
 
-[**agent-vcr**](https://github.com/ixchio/agent-vcr) — time-travel debugging for AI agents. record, replay, edit, resume. [`pip install ai-agent-vcr`](https://pypi.org/project/ai-agent-vcr/)
+[**agent-vcr**](https://github.com/ixchio/agent-vcr) — time-travel debugging for AI agents. Record, replay, edit, resume. [`pip install ai-agent-vcr`](https://pypi.org/project/ai-agent-vcr/)
 
-[**tas**](https://github.com/ixchio/tas) — Telegram as Storage. encrypted cloud storage, mount it like a drive.
+[**tas**](https://github.com/ixchio/tas) — Telegram as Storage. Encrypted cloud storage — mount it like a drive.
 
-[**ragbox-core**](https://github.com/ixchio/ragbox-core) — zero-config RAG. drop files in, ask questions.
+[**ragbox-core**](https://github.com/ixchio/ragbox-core) — zero-config RAG. Drop files in, ask questions.
 
 ---
 
-#### open source
+## Open Source Contributions
 
-| repo | merged | highlights |
+| Repo | Merged | Highlights |
 |:-----|:------:|:-----------|
 | [OpenHands/software-agent-sdk](https://github.com/OpenHands/software-agent-sdk) | 9 | async hooks, workspace pause/resume, file-based locking, DeepSeek v3.2, cost-optimized behavior tests |
 | [withastro/astro](https://github.com/withastro/astro) | 2 | CSS double-bundling fix, O(n²) memory allocation fix |
