@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="https://count.getloli.com/get/@ixchio?name=ixchio&theme=moebooru&padding=7&offset=0&align=top&scale=1.2&pixelated=1&darkmode=auto" alt="visitor count" />
-
 <br/>
 
 ```
@@ -16,20 +14,22 @@ infrastructure over hype · always shipping
 
 # aman · @ixchio
 
-I build tools I want to use.  
-[OpenHands Champion](https://github.com/All-Hands-AI/OpenHands) · founding cohort · 18 merged PRs / 8 orgs.
+self-taught. no mentors, no funding, no permission slip.
+i build the tool first, ask if anyone needed it later.
+
+`18 merged PRs` · `8 orgs` · `CVE-2025-68146` · `full stack: inference → payments`
 
 <br/>
 
 ## Shipping
 
-[**n0x**](https://github.com/ixchio/n0x) — full AI stack in one browser tab. Inference, agents, RAG, codegen, imagegen. No backend, no keys, no data leaves your machine. WebGPU + WASM.
+[**n0x**](https://github.com/ixchio/n0x) — full AI stack in one browser tab. inference, agents, RAG, codegen, imagegen. no backend, no keys, nothing leaves your machine. WebGPU + WASM.
 
-[**agent-vcr**](https://github.com/ixchio/agent-vcr) — time-travel debugging for AI agents. Record, replay, edit, resume. [`pip install ai-agent-vcr`](https://pypi.org/project/ai-agent-vcr/)
+[**agent-vcr**](https://github.com/ixchio/agent-vcr) — time-travel debugging for AI agents. record, replay, edit, resume. [`pip install ai-agent-vcr`](https://pypi.org/project/ai-agent-vcr/)
 
-[**tas**](https://github.com/ixchio/tas) — Telegram as Storage. Encrypted cloud storage — mount it like a drive.
+[**tas**](https://github.com/ixchio/tas) — telegram as storage. encrypted cloud storage, mount it like a drive.
 
-[**ragbox-core**](https://github.com/ixchio/ragbox-core) — zero-config RAG. Drop files in, ask questions.
+[**ragbox-core**](https://github.com/ixchio/ragbox-core) — zero-config RAG. drop files in, ask questions.
 
 ---
 
