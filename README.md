@@ -17,7 +17,7 @@ infrastructure over hype · always shipping
 self-taught. no mentors, no funding, no permission slip.
 i build the tool first, ask if anyone needed it later.
 
-`18 merged PRs` · `8 orgs` · `CVE-2025-68146` · `full stack: inference → payments`
+`18 merged PRs · 8 orgs · OSS contributor · full stack: inference → payments`
 
 <br/>
 
