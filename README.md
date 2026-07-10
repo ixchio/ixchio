@@ -1,18 +1,3 @@
-<div align="center">
-
-```txt
-                      ixchio@github
--------------------------------------------------------------
-os        self-taught, shipping in public
-host      local-first AI / agent infrastructure
-kernel    TypeScript, Python, WebGPU, WASM, Docker
-uptime    18 merged PRs across 8 orgs
-packages  n0x, agent-vcr, tas, ragbox-core
-mantra    infra over hype
-```
-
-</div>
-
 ---
 
 # aman / @ixchio
