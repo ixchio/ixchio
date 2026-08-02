@@ -8,7 +8,7 @@
 
 # IXCHIO
 
-*infrastructure over pussy · always shipping*
+*always shipping*
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00E5FF,100:000000&height=2)
 
