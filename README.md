@@ -66,8 +66,6 @@
 open to **founding engineer** and **AI infrastructure** roles — production agent systems, developer tooling, inference at the edge.
 
 <div align="center">
-
-[![X](https://img.shields.io/badge/@ixchio-000000?style=for-the-badge&logo=x&logoColor=00E5FF)](https://twitter.com/ixchio)
 [![GitHub](https://img.shields.io/badge/ixchio-000000?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/ixchio)
 
 ![](https://komarev.com/ghpvc/?username=ixchio&label=TRANSMISSIONS+RECEIVED&color=00E5FF&style=for-the-badge&labelColor=000000)
