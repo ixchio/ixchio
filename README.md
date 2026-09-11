@@ -1,75 +1,113 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00E5FF,100:000000&height=4)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00E5FF,100:000000&height=3" width="100%"/>
 
-</div>
-
-<div align="center">
+<br>
 
 # IXCHIO
 
-*always shipping*
+`systems · runtimes · developer tooling`
 
-![](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00E5FF,100:000000&height=2)
+<sub>software that survives contact with reality</sub>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00E5FF,100:000000&height=1" width="55%"/>
 
 </div>
 
-## deployed systems
+<br>
 
-**[n0x](https://github.com/ixchio/n0x)** — full AI stack in one browser tab. inference, agents, RAG, codegen, imagegen. no backend, no keys, nothing leaves the machine. WebGPU + WASM.
+## systems
 
-**[agent-vcr](https://github.com/ixchio/agent-vcr)** — time-travel debugging for AI agents. record, replay, edit, resume.
-`pip install ai-agent-vcr` &nbsp; [![PyPI](https://img.shields.io/pypi/v/ai-agent-vcr?style=flat-square&color=00E5FF&labelColor=000000)](https://pypi.org/project/ai-agent-vcr/)
+<table>
+<tr>
+<td width="150"><b><a href="https://github.com/ixchio/n0x">n0x</a></b></td>
+<td>local-first AI runtime in the browser — inference, agents, RAG, codegen and image generation over WebGPU + WASM</td>
+</tr>
 
-**[tas](https://github.com/ixchio/tas)** — telegram as storage. encrypted cloud storage, mount it like a drive.
+<tr>
+<td><b><a href="https://github.com/ixchio/agent-vcr">agent-vcr</a></b></td>
+<td>record and replay execution for AI agents — inspect, edit and resume runs from any point</td>
+</tr>
 
-**[ragbox-core](https://github.com/ixchio/ragbox-core)** — zero-config RAG. drop files in, ask questions.
-[![PyPI](https://img.shields.io/pypi/v/ragbox-core?style=flat-square&color=00E5FF&labelColor=000000)](https://pypi.org/project/ragbox-core/)
+<tr>
+<td><b><a href="https://github.com/ixchio/tas">tas</a></b></td>
+<td>encrypted storage backed by Telegram, exposed like a filesystem</td>
+</tr>
 
-## patch log
+<tr>
+<td><b><a href="https://github.com/ixchio/ragbox-core">ragbox-core</a></b></td>
+<td>zero-config local RAG — point it at files and query them</td>
+</tr>
+</table>
 
-| id | module | patches | changelog |
-|:--:|:-------|:-------:|:----------|
-| 0x01 | [OpenHands/software-agent-sdk](https://github.com/OpenHands/software-agent-sdk) | 9 | async hooks, workspace pause/resume, file-based locking, DeepSeek v3.2, cost-optimized behavior tests |
-| 0x02 | [withastro/astro](https://github.com/withastro/astro) | 2 | CSS double-bundling fix, O(n²) memory allocation fix |
-| 0x03 | [lithos-ai/motus](https://github.com/lithos-ai/motus) | 2 | FunctionTool JSON crash + Anthropic/Gemini fixes, base64 image passthrough |
-| 0x04 | [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs) | 1 | octet-stream fallback for unknown MIME types |
-| 0x05 | [superglue-ai/superglue](https://github.com/superglue-ai/superglue) | 1 | SSRF prevention via URL validation |
-| 0x06 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 1 | async memory creation fix |
-| 0x07 | [multigres/multigres](https://github.com/multigres/multigres) | 1 | safe port range for local clusters |
-| 0x08 | [OpenHands/OpenHands-CLI](https://github.com/OpenHands/OpenHands-CLI) | 1 | TUI tab navigation hint |
+```bash id="7ueqi1"
+pip install ai-agent-vcr
+pip install ragbox-core
+```
+
+[![agent-vcr](https://img.shields.io/pypi/v/ai-agent-vcr?style=flat-square\&label=agent-vcr\&labelColor=0d1117\&color=30363d)](https://pypi.org/project/ai-agent-vcr/)
+[![ragbox-core](https://img.shields.io/pypi/v/ragbox-core?style=flat-square\&label=ragbox-core\&labelColor=0d1117\&color=30363d)](https://pypi.org/project/ragbox-core/)
+
+<br>
+
+## upstream
+
+|   id   | repository                                                                      | merged patches | area                                                                            |
+| :----: | :------------------------------------------------------------------------------ | :------------: | :------------------------------------------------------------------------------ |
+| `0x01` | [OpenHands/software-agent-sdk](https://github.com/OpenHands/software-agent-sdk) |      **9**     | async hooks · workspace pause/resume · locking · DeepSeek v3.2 · behavior tests |
+| `0x02` | [withastro/astro](https://github.com/withastro/astro)                           |      **2**     | CSS double-bundling · O(n²) memory allocation                                   |
+| `0x03` | [lithos-ai/motus](https://github.com/lithos-ai/motus)                           |      **2**     | tool JSON handling · Anthropic/Gemini · image passthrough                       |
+| `0x04` | [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs)       |      **1**     | unknown MIME fallback                                                           |
+| `0x05` | [superglue-ai/superglue](https://github.com/superglue-ai/superglue)             |      **1**     | SSRF prevention                                                                 |
+| `0x06` | [mem0ai/mem0](https://github.com/mem0ai/mem0)                                   |      **1**     | async memory creation                                                           |
+| `0x07` | [multigres/multigres](https://github.com/multigres/multigres)                   |      **1**     | local cluster port safety                                                       |
+| `0x08` | [OpenHands/OpenHands-CLI](https://github.com/OpenHands/OpenHands-CLI)           |      **1**     | TUI navigation                                                                  |
 
 <div align="center">
 
-[![@ixchio Astro contributions](https://astro.badg.es/v2/contributor/ixchio.svg)](https://astro.badg.es/contributor/ixchio/)
+[![@ixchio Astro contributor](https://astro.badg.es/v2/contributor/ixchio.svg)](https://astro.badg.es/contributor/ixchio/)
 
 </div>
 
+<br>
+
 <details>
-<summary><b>full telemetry</b></summary>
+<summary><b>toolchain</b></summary>
+
 <br>
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=py,ts,js,react,nodejs,docker,postgres,redis,linux,git,bash,aws&theme=dark)
-
-<br><br>
-
-![](https://github-readme-stats.vercel.app/api?username=ixchio&show_icons=true&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9)
+<img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,docker,postgres,redis,linux,git,bash,aws&theme=dark"/>
 
 </div>
 
 </details>
 
-## current objective
+<br>
 
-open to **founding engineer** and **AI infrastructure** roles — production agent systems, developer tooling, inference at the edge.
+## signal
+
+building around the parts of AI systems that usually break after the demo
+
+open to **founding engineer**, **AI infrastructure** and **developer tooling** work
+
+<br>
 
 <div align="center">
-[![GitHub](https://img.shields.io/badge/ixchio-000000?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/ixchio)
 
-![](https://komarev.com/ghpvc/?username=ixchio&label=TRANSMISSIONS+RECEIVED&color=00E5FF&style=for-the-badge&labelColor=000000)
+<a href="https://github.com/ixchio">
+<img src="https://img.shields.io/badge/github%20%2F%20ixchio-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
 
-![](https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFC857,100:000000&height=4)
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ixchio&label=profile+reads&color=30363d&style=flat-square&labelColor=0d1117"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00E5FF,100:000000&height=3" width="100%"/>
 
 </div>
