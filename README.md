@@ -1,9 +1,3 @@
-# aman
-
-ai engineer, hardcore into retrieval, agent runtimes, browsers and local first tools
-
-i build code search that shows its proof, agents u can undo and replay, browser automation that wont wreck ur stuff, and software that runs on ur own machine
-
 [x](https://x.com/ixchio) · [github sponsors](https://github.com/sponsors/ixchio) · [buy me a coffee](https://buymeacoffee.com/ixchio)
 
 ## on pypi
